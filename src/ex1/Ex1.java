@@ -13,7 +13,7 @@ int b;
     if((Math.pow(Math.sin(a),2))+(Math.pow(Math.cos(b),2))==1){
 //возведение в квадрат cos^2+sin^2    
     double sum = (Math.pow(Math.sin(a),2))+(Math.pow(Math.cos(b),2));
-    System.out.println("Result = "+sum);
+    System.out.println("Result (sin^2(x)+cos^2(x)) = "+sum);
     }
  }
  public static void main(String[] args){ 
