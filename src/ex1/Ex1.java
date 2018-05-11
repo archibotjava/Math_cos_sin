@@ -19,6 +19,7 @@ int b;
  public static void main(String[] args){ 
 //в главном методе создаем экземпляры классов. В нашем случае
 //объект Ex1 и Объект Scanner. Для считываня из консоли
+     // делаю еще короче изменение и смотрю в гите
     Ex1 res = new Ex1();    
     Scanner in = new Scanner(System.in);
     System.out.println("Enter a");
